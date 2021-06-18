@@ -17,6 +17,6 @@ TIME IS UP!!!!!
 
 1. Getting the fetch requests to work went without a problem, this feels good as I was struggling on these three days ago (mind was blank on how to do them).
 2. I thought I would be able to have one single fetch request that I could pass in all the info, but found this was more complex as different JSON files had different lay outs. 🤔 there must be a way to do this.
-3. added on the guess the meme, this was a nice addition and would have liked to finish this up. have more happen if answer was correct.
+3. added on the guess the meme, this was a nice addition and would have liked to finish this up. Answer not showing correclty and have more happen if answer was correct.
 4. CSS is hard, remembering how to space items out and try to make it look more than a 5 second job 🤣😂🤣😂
 5. I am happy with what I accomplished, the main objective for this exercise was to write multiple API requests and display the results, as I previously struggled. I'm taking this as a win 😁

@@ -32,11 +32,8 @@ async function memeFetch() {
 };
 
 function Fun() {
-    if (Guess.value !== ""){
-    document.querySelector('.answer').innerHTML = altText;
-    } else {
-        document.querySelector('.answer').innerHTML = "Take a guess";
-    }
+   
+        document.querySelector('.answer').innerHTML = altText;
 }
 
 GeekButton.addEventListener('click', geekFetch);
