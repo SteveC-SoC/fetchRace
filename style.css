@@ -1,0 +1,33 @@
+html {
+  min-height: 100%;
+  background: repeating-linear-gradient(to top, gold, darkgreen);
+  background-repeat: no-repeat;
+  padding: 25px;
+  
+}
+
+.container {
+  margin: 25px;
+  width: auto;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-height: 120px;
+  max-width: 75%;
+  object-fit: contain;
+}
+
+.display {
+  margin-top: 25px;
+  color: blanchedalmond;
+}
+
+button{
+    box-shadow: 1px 1px;
+    border-radius: 25px;
+    color: grey;
+}
